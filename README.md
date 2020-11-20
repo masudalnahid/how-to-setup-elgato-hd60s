@@ -1,7 +1,8 @@
 # how-to-setup-elgato-hd60s
 
+
 In this guide, I'm going to explain step by step how to setup Elgato hd60s to pc. For this setup, you're going to need one HD60 S Elgato game capture card, USB cables, USB C to USB cable as well as two additional HDMI cables.
-Let's start how to setup Elgato hd60s switch capture card.
+Let's start <a href="https://techrusty.com/how-to-setup-elgato-hd60s">how to setup Elgato hd60s switch capture card</a>.
 •	Make sure you've downloaded and installed the latest version of game capture software.
 •	You will need in HD 60s switch capture card to HDMI cables, one of which Elgato provides with the HD60 S.
 •	USB to USB C cable, which Elgato provides with the HC60 S switch capture card.
